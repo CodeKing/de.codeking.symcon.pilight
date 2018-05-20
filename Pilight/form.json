@@ -1,0 +1,42 @@
+{
+  "elements": [
+    {
+      "type": "Label",
+      "label": "Please create the pilight I/O instance first and click there on \"Create Devices\""
+    },
+    {
+      "type": "Label",
+      "label": "___ [ Support ] ________________________________________________________________________________________"
+    },
+    {
+      "type": "Label",
+      "label": "If you like this module and want to support further development of my symcon modules, feel free to donate at www.paypal.me/codeking"
+    },
+    {
+      "type": "Label",
+      "label": "www.paypal.me/codeking"
+    },
+    {
+      "type": "Label",
+      "label": "___ [ Pilight Settings ] _______________________________________________________________________________"
+    },
+    {
+      "type": "Label",
+      "label": "update only, if device id in pilight has been changed!"
+    },
+    {
+      "name": "Identifier",
+      "type": "ValidationTextBox",
+      "caption": "Device ID"
+    },
+    {
+      "type": "Label",
+      "label": "___ [ Logging ] ________________________________________________________________________________________"
+    },
+    {
+      "type": "CheckBox",
+      "name": "log",
+      "caption": "enable logging"
+    }
+  ]
+}
